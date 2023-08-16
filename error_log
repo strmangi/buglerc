@@ -1,0 +1,1 @@
+[08-Nov-2021 10:51:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 260050944 bytes) in /home/buglercoaches/public_html/app/Http/Controllers/Admin/InquiryController.php on line 1481

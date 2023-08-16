@@ -1,0 +1,16 @@
+customer_name,pick_up_point,pick_up_time,no_of_passengers,coach_type,am_pm,school_start_date,school_close_date,report_time,job_end_time
+Chew Valley F - AM,Temple Cloud,08:10,49,49 or 53 Seat Coach,AM,17/04/2023,26/05/2023,07:30,08:45
+Chew Valley F - PM,Chew Valley,15:20,49,49 or 53 Seat Coach,PM,17/04/2023,10/02/2023,14:45,15:50
+Chew Valley C - AM,Temple Cloud,08:10,32,33 Seat Coach,AM,17/04/2023,10/02/2023,07:30,08:45
+Chew Valley C - PM,Chew Valley,15:20,32,33 Seat Coach,PM,17/04/2023,10/02/2023,14:45,16:20
+Chew Valley G - AM,Bishop Sutton,08:10,49,49 or 53 Seat Coach,AM,17/04/2023,10/02/2023,07:30,08:45
+Chew Valley G - PM,Chew Valley,15:20,49,49 or 53 Seat Coach,PM,17/04/2023,10/02/2023,14:45,15:50
+Chew Valley D - AM,Ubley,08:10,33,33 Seat Coach,AM,17/04/2023,10/02/2023,07:30,08:45
+Chew Valley D - PM,Chew Valley,15:20,33,33 Seat Coach,PM,17/04/2023,10/02/2023,14:45,16:10
+Route A - AM,Bishopsworth,07:30,49,49 or 53 Seat Coach,AM,17/04/2023,10/02/2023,07:00,08:45
+Route A - PM,Chew Valley,15:20,49,49 or 53 Seat Coach,PM,17/04/2023,10/02/2023,14:45,16:30
+Route B - AM,WTL,07:30,49,49 or 53 Seat Coach,AM,17/04/2023,10/02/2023,07:00,08:45
+Route B - PM,Chew Valley,15:20,49,49 or 53 Seat Coach,PM,17/04/2023,10/02/2023,14:45,16:30
+Chew Valley P - AM,East Harptree,08:10,33,33 Seat Coach,AM,17/04/2023,10/02/2023,07:30,08:45
+Chew Valley P - PM,Chew Valley,15:20,33,33 Seat Coach,PM,17/04/2023,10/02/2023,14:45,15:50
+Bath Spa Uni,Overflow Car Park,08:00,32,33 Seat Coach,,17/04/2023,10/02/2023,07:00,18:30

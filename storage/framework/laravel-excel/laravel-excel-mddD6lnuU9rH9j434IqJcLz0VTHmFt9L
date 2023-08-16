@@ -1,0 +1,19 @@
+customer_name,pick_up_point,pick_up_time,no_of_passengers,coach_type,am_pm,school_start_date,school_close_date,report_time,job_end_time
+Chew Valley WTL - AM,WTL,07:55,47,49 or 53 Seat Coach,AM,09/16/2021,10/22/2021,07:00,08:30
+Chew Valley WTL - PM,Chew Valley,15:20,47,49 or 53 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:30
+Chew Valley Bishopsworth - AM,Belland Drive,07:50,46,49 or 53 Seat Coach,AM,09/16/2021,10/22/2021,07:00,08:30
+Chew Valley Bishopsworth - PM,Chew Valley,15:20,46,49 or 53 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:30
+Chew Valley C - AM,Cameley Surgery,08:10,22,33 Seat Coach,AM,09/16/2021,10/22/2021,07:30,08:30
+Chew Valley C - PM,Chew Valley,15:20,22,33 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:00
+Chew Valley F - AM,Temple Cloud,08:10,48,49 or 53 Seat Coach,AM,09/16/2021,10/22/2021,07:30,08:30
+Chew Valley F - PM,Chew Valley,15:20,48,49 or 53 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:00
+Chew Valley G - AM,Bishop Sutton,08:10,50,49 or 53 Seat Coach,AM,09/16/2021,10/22/2021,07:30,08:30
+Chew Valley G - PM,Chew Valley,15:20,50,49 or 53 Seat Coach,PM,09/16/2021,10/22/2021,14:45,15:50
+Chew Valley Whitchurch - AM,Wharnecliffe Gdns,08:00,32,33 Seat Coach,AM,09/16/2021,10/22/2021,07:15,08:30
+Chew Valley Whitchurch - PM,Chew Valley,15:20,32,33 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:20
+Chew Valley P - AM,East Harptree,08:10,35,35 Seat Coach,AM,09/16/2021,10/22/2021,07:30,08:30
+Chew Valley P - PM,Chew Valley,15:20,35,35 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:00
+Norton Hill A - AM,Clutton Primary,08:00,50,49 or 53 Seat Coach,AM,09/16/2021,10/22/2021,07:30,08:30
+Norton Hill A - PM,Norton Hill,15:25,50,49 or 53 Seat Coach,PM,09/16/2021,10/22/2021,14:45,16:30
+Bath Spa University - AM,Locksbrook Road,08:00,33,33 Seat Coach,AM,09/16/2021,10/22/2021,07:00,10:40
+Bath Spa University - PM,Sion Hill,17:00,33,33 Seat Coach,PM,09/16/2021,10/22/2021,16:00,19:40

@@ -1,0 +1,396 @@
+/*--------------------------------------------------------------------------------------*/
+/*Genral-Css-Here
+/*--------------------------------------------------------------------------------------*/
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+body{margin:0; padding:0; box-sizing:border-box; background:#fff; font-family:'Nunito Sans', sans-serif;}
+a{-webkit-transition: 0.5s ease-out; -moz-transition:0.5s ease-out; -o-transition: 0.5s ease-out; transition:0.5s ease-out; text-decoration: none;}
+ul{margin:0; padding:0; list-style:none;}
+h1,h2,h3,h4,h5,h6{margin: 0; padding: 0;}
+img{max-width:100%;}
+figure {margin: 0; padding: 0;margin-bottom: 0;}
+/*.container-fluid {max-width: 1920px; margin: 0 auto; padding: 0px 100px; } 
+.container {max-width:1288px; margin: 0 auto; padding: 0 auto;  }*/
+
+
+
+/*--------------------------------------------------------------------------------------*/
+/*main-Css-Here
+/*--------------------------------------------------------------------------------------*/
+
+
+.container {
+  max-width: 100%;
+  width: 830px;
+  margin: 0 auto;
+  background: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.logo-section figure img {
+  width: 642px;
+}
+.logo-section {
+  padding-top: 80px;
+}
+.coach-inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.coach-left h2 {
+  font-size: 12px;
+  font-weight: 800;
+  color: #000;
+  margin-bottom: 10px;
+}
+.coach-left span {
+  font-size: 16px;
+  font-weight: 800;
+  border: 1px solid #000;
+  padding: 2px 5px;
+  margin-bottom: 5px;
+  display: block;
+}
+.coach-left {
+  width: 52%;
+}
+
+.coach-left address {
+  max-width: 100%;
+  border: 1px solid #000;
+  height: 169px;
+  font-size: 14px;
+  font-weight: bolder;
+  padding: 5px;
+  box-shadow: 7px 7px 0px #808080;
+  font-style: normal;
+}
+
+.coach-right {
+  padding-left: 50px;
+  width: 48%;
+}
+
+.coach-right h2 {
+	font-size: 26px;
+	font-weight: 800;
+	margin-bottom: 20px;
+}
+.hire {
+  display: flex;
+  justify-content: flex-end;
+}
+.hire-left h3 {
+  font-size: 14px;
+  font-weight: 800;
+  text-align: center;
+}
+.hire-right {
+  display: flex;
+}
+.hire-right ul {
+  display: flex;
+  margin: 0 0 0 15px;
+  box-shadow: 7px 7px 0px #808080;
+}
+.hire-right ul li {
+  padding: 0px 6px;
+  border: 1.5px solid #000;
+  display: flex;
+  align-items: center; font-weight: 800;
+font-size: 20px;
+}
+.date label {
+  font-size: 14px;
+  font-weight: 800;
+}
+.date {
+  margin-top: 12px;
+}
+.comman-content {
+  border: 1.5px solid #000;
+  padding: 3px 5px;
+  font-weight: 800;
+  font-size: 15px;
+  margin: 2px 0px;
+  min-height: 28px;
+}
+.comman-shadow {
+	box-shadow: 7px 7px 0px #808080;
+}
+
+.contact {
+  padding-top: 50px; position: relative;
+}
+
+.contact:after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  top: 30px;
+  width: 20px;
+  height: 2px;
+  background: #000;
+}
+.contact-contact {
+	display: flex;
+	padding-left: 50px; margin-bottom: 25px;
+}
+.contact-contact-left {
+	width: 50%;
+	display: flex;
+	align-items: center;
+	padding-right: 10px;
+}
+.contact-contact-right {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+.contact-contact-left p {
+  width: 70%;
+}
+
+.contact-contact-right label {
+	width: 50%;
+	padding-right: 10px !important;
+}
+.contact-contact-left label {
+	width: 70%;
+	text-align: right !important;
+	padding-right: 10px !important;
+}
+
+.wexsex-inner {
+  display: flex;
+  align-items: center;
+}
+.wexsex-inner label {
+  width: 30%;
+}
+.wexsex-inner p {
+  width: 70%;
+}
+.contact label {
+	font-size: 14px;
+	font-weight: 800;
+	white-space: nowrap;
+	text-align: center;
+}
+.number {
+  display: flex;
+}
+.number-left {
+  width: 50%;
+}
+.number-inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.number-inner label {
+  width: 60%;
+}
+.number-inner p {
+  width: 40%;
+}
+.number-right {
+  width: 50%;
+}
+.contact-contact-right p {
+	width: 100%;
+}
+
+.please-note {
+	display: flex;
+	padding: 30px 0px;
+}
+.please-note-left {
+  width: 50%;
+}
+.please-note-right {
+  width: 50%;
+  padding-top: 30px;
+}
+.please-note-right-inner {
+  display: flex; align-items: center;
+}
+.please-note-right-inner label {
+  width: 80%;
+  text-align: right;
+  padding-right: 30px;
+  font-size: 14px;
+  font-weight: 800;
+}
+.please-note-right-inner p {
+  width: 20%;
+  margin-bottom: 5px;
+}
+.please-note-left h3 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.please-note-left div {
+  width: 100%;
+  height: 190px;
+  border: 1px solid #000;
+}
+.please-note-right-inner p span {
+  color: #ff0000;
+}
+.payment P {
+	text-align: center;
+	font-size: 14px;
+	font-weight: 800;
+	margin: 3px 0px;
+}
+
+.road {
+  padding: 50px 0px 80px;
+  font-weight:   800 !important;
+} 
+.first {
+	margin-bottom: 20px !important;
+}	
+
+
+/*--------------------------------------------------------------------------------------*/
+/*responsive-Css-Here
+/*--------------------------------------------------------------------------------------*/
+
+
+
+@media (max-width:991px){
+.container {
+  width: 720px;
+}
+.wexsex-inner label {
+  padding-right: 10px;
+}
+.contact-contact {
+  padding-left: 20px;
+}
+.number-left {
+  padding-right: 0px;
+}
+.payment P {
+  font-size: 12px;
+}
+.coach-right {
+  padding-left: 30px;
+}
+}
+
+@media (max-width:767px){
+.logo-section {
+  padding-top: 20px;
+}
+.coach-left {
+  width: 100%;
+  padding: 0 0 20px 0;
+}
+.coach-right {
+  padding: 0px 0 0 0;
+  width: 100%;
+}
+.coach-right h2 {
+  font-size: 20px;
+}
+.contact-contact {
+  padding-left: 0px;
+}
+.contact-contact {
+  flex-wrap: wrap;
+}
+.contact-contact-left {
+  width: 100%;
+}
+.contact-contact-left {
+  padding: 0 0 10px 0;
+}
+.contact-contact-right {
+  width: 100%;
+}
+.contact-contact-left, .contact-contact-right {
+  flex-direction: column;
+}
+.contact-contact-left p {
+  width: 100%;
+}
+.contact-contact-left label, .contact-contact-right label {
+  width: 100%;
+  padding: 0 0 0px 0 !important;
+  text-align: left !important;
+}
+.wexsex-inner {
+  flex-direction: column;
+  padding: 0 0 10px 0;
+}
+.wexsex-inner label {
+  width: 100%;
+}
+.contact label {
+  text-align: left;
+}
+.wexsex-inner p {
+  width: 100%;
+}
+.number {
+  flex-direction: column;
+}
+.number-left {
+  width: 100%;
+}
+.number-inner {
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 0 0 10px 0;
+}
+.number-inner label {
+  width: 100%;
+}
+.number-inner p {
+  width: 100%;
+}
+.number-right {
+  width: 100%;
+}
+.please-note {
+  display: flex;
+  padding: 20px 0px;
+  flex-direction: column;
+}
+.please-note-left {
+  width: 100%;
+}
+.please-note-right {
+  width: 100%;
+  padding-top: 30px;
+}
+.please-note-right {
+  padding-top: 20px;
+}
+.please-note-right-inner {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 0 0 10px 0;
+}
+.please-note-right-inner label {
+  width: 100%;
+  text-align: left;
+  padding: 0 0 0 0;
+}
+.please-note-right-inner p {
+  width: 100%;
+  margin-bottom: 0px;
+}
+.payment br {
+  display: none;
+}
+.road {
+  padding: 30px 0px 20px;
+}
+
+}

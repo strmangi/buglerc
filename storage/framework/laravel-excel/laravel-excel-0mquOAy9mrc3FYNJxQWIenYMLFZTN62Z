@@ -1,0 +1,3 @@
+customer_name,pick_up_point,pick_up_time,no_of_passengers,coach_type,am_pm,school_start_date,school_close_date,report_time,job_end_time
+Chew Valley C AM,Cameley Surgery,08:10,25,33 Seat Coach,AM,08/11/2021,14/11/2021,13:10,15:10
+Chew Valley C PM,CVS,14:30,25,33 Seat Coach,PM,08/11/2021,14/11/2021,14:10,16:10
